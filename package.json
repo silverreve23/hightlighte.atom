@@ -1,0 +1,19 @@
+{
+  "name": "highlighte",
+  "main": "./lib/highlighte",
+  "version": "0.0.0",
+  "description": "A text highlighte color",
+  "keywords": [
+	  "highlighte"
+  ],
+  "activationCommands": {
+    "atom-workspace": "highlighte:addColor"
+  },
+  "repository": "https://github.com/atom/highlighte",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

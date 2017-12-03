@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle highlighte",
+        "command": "highlighte:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "highlighte",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "highlighte:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
