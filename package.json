@@ -1,10 +1,10 @@
 {
   "name": "highlighte",
   "main": "./lib/highlighte",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A text highlighte color",
   "keywords": [
-	  "highlighte"
+    "highlighte"
   ],
   "activationCommands": {
     "atom-workspace": "highlighte:addColor"
@@ -14,6 +14,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
