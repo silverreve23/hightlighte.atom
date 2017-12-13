@@ -1,18 +1,66 @@
 {
-  "name": "highlighte",
-  "main": "./lib/highlighte",
-  "version": "1.0.0",
-  "description": "A text highlighte color",
-  "keywords": [
-    "highlighte"
+  "_args": [
+    [
+      {
+        "raw": "/tmp/d-117113-9261-1rcw785/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/tmp/d-117113-9261-1rcw785/package.tgz",
+        "spec": "/tmp/d-117113-9261-1rcw785/package.tgz",
+        "type": "local"
+      },
+      "/tmp/apm-install-dir-117113-9261-drd3zv"
+    ]
   ],
+  "_from": "../d-117113-9261-1rcw785/package.tgz",
+  "_id": "highlighte@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/highlighte",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/tmp/d-117113-9261-1rcw785/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/tmp/d-117113-9261-1rcw785/package.tgz",
+    "spec": "/tmp/d-117113-9261-1rcw785/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117113-9261-1rcw785/package.tgz",
+  "_shasum": "758156d713971a0dce8777f6d5d0a3554a0ca3df",
+  "_shrinkwrap": null,
+  "_spec": "/tmp/d-117113-9261-1rcw785/package.tgz",
+  "_where": "/tmp/apm-install-dir-117113-9261-drd3zv",
   "activationCommands": {
     "atom-workspace": "highlighte:addColor"
   },
-  "repository": "https://github.com/silverreve23/hightlighte.git",
-  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/silverreve23/hightlighte/issues"
+  },
+  "dependencies": {},
+  "description": "A text highlighte color",
+  "devDependencies": {},
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {}
+  "homepage": "https://github.com/silverreve23/hightlighte#readme",
+  "keywords": [
+    "highlighte"
+  ],
+  "license": "MIT",
+  "main": "./lib/highlighte",
+  "name": "highlighte",
+  "optionalDependencies": {},
+  "readme": "# highlighte package\n\nA short description of your package.\n\n![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)\n# hightlighte\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silverreve23/hightlighte.git"
+  },
+  "version": "1.0.0"
 }
