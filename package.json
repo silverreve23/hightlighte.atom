@@ -11,31 +11,43 @@
         "type": "local"
       },
       "/tmp/apm-install-dir-117113-9261-drd3zv"
+    ],
+    [
+      {
+        "raw": "/tmp/d-1171113-5772-kl65b3/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/tmp/d-1171113-5772-kl65b3/package.tgz",
+        "spec": "/tmp/d-1171113-5772-kl65b3/package.tgz",
+        "type": "local"
+      },
+      "/tmp/apm-install-dir-1171113-5772-1x8k96z"
     ]
   ],
-  "_from": "../d-117113-9261-1rcw785/package.tgz",
-  "_id": "highlighte@1.0.0",
+  "_from": "../d-1171113-5772-kl65b3/package.tgz",
+  "_id": "highlighte@1.0.4",
   "_inCache": true,
   "_installable": true,
   "_location": "/highlighte",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/tmp/d-117113-9261-1rcw785/package.tgz",
+    "raw": "/tmp/d-1171113-5772-kl65b3/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/tmp/d-117113-9261-1rcw785/package.tgz",
-    "spec": "/tmp/d-117113-9261-1rcw785/package.tgz",
+    "rawSpec": "/tmp/d-1171113-5772-kl65b3/package.tgz",
+    "spec": "/tmp/d-1171113-5772-kl65b3/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-117113-9261-1rcw785/package.tgz",
+  "_resolved": "file:../d-1171113-5772-kl65b3/package.tgz",
   "_shasum": "758156d713971a0dce8777f6d5d0a3554a0ca3df",
   "_shrinkwrap": null,
-  "_spec": "/tmp/d-117113-9261-1rcw785/package.tgz",
-  "_where": "/tmp/apm-install-dir-117113-9261-drd3zv",
+  "_spec": "/tmp/d-1171113-5772-kl65b3/package.tgz",
+  "_where": "/tmp/apm-install-dir-1171113-5772-1x8k96z",
   "activationCommands": {
     "atom-workspace": "highlighte:addColor"
   },
@@ -62,5 +74,5 @@
     "type": "git",
     "url": "git+https://github.com/silverreve23/hightlighte.git"
   },
-  "version": "1.0.4"
+  "version": "1.0.5"
 }
