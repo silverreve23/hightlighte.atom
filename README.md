@@ -3,7 +3,7 @@
 ## Package for atom editor
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/silverreve23/hightlighte/blob/master/img/screen.png">
+	<img src="https://raw.githubusercontent.com/silverreve23/hightlighte/master/img/screen.png">
 </p>
 
 This package highlights the selected section of the code in the background color.
