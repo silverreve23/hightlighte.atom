@@ -1,4 +1,4 @@
-# highlighte
+# Highlighte
 
 ## Package for atom editor
 
