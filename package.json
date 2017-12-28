@@ -35,31 +35,43 @@
         "type": "local"
       },
       "/tmp/apm-install-dir-1171126-25742-8yl8c3"
+    ],
+    [
+      {
+        "raw": "/tmp/d-1171127-571-fqbenj/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/tmp/d-1171127-571-fqbenj/package.tgz",
+        "spec": "/tmp/d-1171127-571-fqbenj/package.tgz",
+        "type": "local"
+      },
+      "/tmp/apm-install-dir-1171127-571-h7o91x"
     ]
   ],
-  "_from": "../d-1171126-25742-1efxt0y/package.tgz",
-  "_id": "highlighte@1.0.6",
+  "_from": "../d-1171127-571-fqbenj/package.tgz",
+  "_id": "highlighte@1.0.9",
   "_inCache": true,
   "_installable": true,
   "_location": "/highlighte",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/tmp/d-1171126-25742-1efxt0y/package.tgz",
+    "raw": "/tmp/d-1171127-571-fqbenj/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/tmp/d-1171126-25742-1efxt0y/package.tgz",
-    "spec": "/tmp/d-1171126-25742-1efxt0y/package.tgz",
+    "rawSpec": "/tmp/d-1171127-571-fqbenj/package.tgz",
+    "spec": "/tmp/d-1171127-571-fqbenj/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-1171126-25742-1efxt0y/package.tgz",
+  "_resolved": "file:../d-1171127-571-fqbenj/package.tgz",
   "_shasum": "758156d713971a0dce8777f6d5d0a3554a0ca3df",
   "_shrinkwrap": null,
-  "_spec": "/tmp/d-1171126-25742-1efxt0y/package.tgz",
-  "_where": "/tmp/apm-install-dir-1171126-25742-8yl8c3",
+  "_spec": "/tmp/d-1171127-571-fqbenj/package.tgz",
+  "_where": "/tmp/apm-install-dir-1171127-571-h7o91x",
   "activationCommands": {
     "atom-workspace": "highlighte:addColor"
   },
@@ -80,11 +92,10 @@
   "main": "./lib/highlighte",
   "name": "highlighte",
   "optionalDependencies": {},
-  "readme": "# highlighte package\n\nA short description of your package.\n\n![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)\n# hightlighte\n",
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/silverreve23/hightlighte.git"
   },
-  "version": "1.0.9"
+  "version": "1.0.10"
 }
