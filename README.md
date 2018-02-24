@@ -17,5 +17,7 @@ Run this command in terminal
 This package highlights the selected section 
 of the code in the background color.
 
-#### ctrl + alt + y : add highlight the background color
-#### ctrl + alt + k : remove highlight the background color
+## Keybindings
+
+	<b>ctrl + alt + y</b> : add highlight the background color
+	<b>ctrl + alt + k</b> : remove highlight the background color
