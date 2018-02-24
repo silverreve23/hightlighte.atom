@@ -78,7 +78,9 @@
   "bugs": {
     "url": "https://github.com/silverreve23/hightlighte/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "write": "^1.0.3"
+  },
   "description": "A text highlighte color",
   "devDependencies": {},
   "engines": {
@@ -97,5 +99,5 @@
     "type": "git",
     "url": "git+https://github.com/silverreve23/hightlighte.git"
   },
-  "version": "1.0.10"
+  "version": "1.1.0"
 }
